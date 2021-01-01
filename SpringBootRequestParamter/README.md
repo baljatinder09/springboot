@@ -1,5 +1,5 @@
 # Spring boot Request Param example
-There is 2 ways we can pass the value from URL to REST Controller. 
+There are 2 ways we can pass the value from URL to REST Controller. 
   - >@PathVariable
  -  >@RequestParam
 ```shell
