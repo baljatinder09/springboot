@@ -16,7 +16,7 @@ Alternatively you can use the  [Spring Boot Maven plugin](https://docs.spring.io
 ```shell
 mvn spring-boot:run
 ```
-# Used the below URL to access from Chrome/EDGE/IE Browser
+# Used the below URL to access Chrome/EDGE/IE Browser
 
 ```shell
 URL : http://localhost:9001/hellospringboot 
